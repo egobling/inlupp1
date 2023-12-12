@@ -1,0 +1,12 @@
+
+#include <stdio.h>
+
+int main() {
+  char FullName[] = "Erik andrén";
+  char mail[] = "erik@edunet.oru.se";
+  char hobby[] = "slapp bass";
+  
+  printf("%s\n",FullName);
+  printf("%s\n",mail);
+  printf("%s",hobby);
+}
